@@ -38,15 +38,6 @@ Skrip pasang dan uninstall otomatis (`install_mod.bat` & `uninstall_mod.bat`) un
 
 ---
 
-## Apa yang Dilakukan Skrip Ini?
-
-- Mendeteksi lokasi instalasi `DARK SOULS REMASTERED` secara otomatis (dari Steam Registry dan drive `C`–`Z`).
-- Mem-backup file asli (`item.msgbnd.dcx`, `menu.msgbnd.dcx`, serta `SeamlessCoop` jika terpasang) ke folder `original/` sebelum menimpa.
-- Menyalin file lokalisasi Bahasa Indonesia ke folder game dan memperbarui locale serta pengumuman *Seamless Co-op* jika terdeteksi (dikembalikan penuh oleh `uninstall_mod.bat`).
-- Seluruh isi kode terbuka dan bisa langsung Anda periksa di `install_mod.bat` dan `uninstall_mod.bat`.
-
----
-
 ## Dukungan
 
 Mod ini gratis sepenuhnya. Jika terbantu dan ingin mendukung proyek terjemahan berikutnya:  
